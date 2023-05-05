@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam Browser</string>
+    <string name="btn_lanjutkan">Lanjutkan</string>
+    <string name="hint_name">Masukkan IP address/Domain</string>
+    <string name="err_msg_name">Form IP address/Domain tidak boleh kosong</string>
+    <string name="tentang">Tentang</string>
+    <string name="keluar">Keluar</string>
+    <string name="app_message">Assalamu\'alaikum wr.wb\nBagian Terpenting Ujian adalah Kejujuran Maka Kerjakanlah Ujian dengan Jujur dan Sungguh Sungguh. \'Man jadda wajada.\' (Barang siapa bersungguh-sungguh, maka dia akan mendapatkan (kesuksesan))</string>
+    <string name="application_splash_icon">Application Splash Icon</string>
+</resources>
